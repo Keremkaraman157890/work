@@ -1,0 +1,9 @@
+1-) MinGW kuruldu
+1.2-) VSCODE kuruldu + C extension yüklendi.
+2-) Dosya açılıp dosyaAdı.c oluşturuldu
+
+
+Şuandan itibaren => 
+3-) gcc dosyaAdı.c -o dosyaAdı.exe  => komutu çalıştırılarak exe dosyası oluşturuldu kullanılan -o alanı output için kullanılıyor oluşturulacak İSİM.
+4-) dosyaAdı.exe çalıştırılmak istendi fakat powershell güvenlik sorunu yarattığı için şu komutla çalıştırıldı => .\dosyaAdı.exe
+5-) ctrl + C çıkış
